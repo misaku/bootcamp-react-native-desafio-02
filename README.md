@@ -1,4 +1,8 @@
-# Desafio 2
+# Desafio Rocketseat Bootcamp - GoNative Nível 2
+
+ Esse git é para postar a solução desenvolvida por mim, como o proposito deste desafio é só verificar o conheimento e logica relacionado a tecnologia, não estarei preocupando com melhorias, e sim só completar as normas solicitadas pelo desafio.
+
+## O Desafio 
 
 Crie uma aplicação do zero e configura as ferramentas: ESLint, Reactotron, Babel Root Import e EditorConfig. Nesse desafio você irá construir uma aplicação utilizando a API do Github para listar issues (questões) de um repositório. A interface da aplicação deve ser construída utilizando FlexBox e seguir conforme imagem abaixo:
 
@@ -34,3 +38,6 @@ Esse desafio **não precisa ser entregue** e não receberá correção, mas voc�
 Booooooora dev!!!
 
 “Para quem fica melhor a cada dia, ficar pronto é utopia”!
+
+## Agradecimento	
+ **@Rocketseat ( [Github](https://github.com/Rocketseat) | [Site](https://rocketseat.com.br/) )**
