@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  View, Text, Image, TouchableOpacity, Linking
+  View, Text, Image, TouchableOpacity, Linking,
 } from 'react-native';
 import Icon from 'react-native-vector-icons/FontAwesome';
 import PropTypes from 'prop-types';
@@ -9,7 +9,8 @@ import styles from './styles';
 const ItemList = ({ issue }) => (
   <TouchableOpacity onPress={() => {
     Linking.openURL(issue.html_url);
-  }}>
+  }}
+  >
     <View style={styles.container}>
       <Image source={{ uri: issue.user.avatar_url }} style={styles.avatar} />
       <View style={styles.boxTitle}>
